@@ -1,0 +1,26 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\bin\Debug\Zadania 9.exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\bin\Debug\Zadania 9.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\bin\Debug\Zadania 9.pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania_9.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania_9.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania_9.Задание_1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania_9.Задание_2.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9\Zadania 9\obj\Debug\Zadania 9.pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\bin\Debug\Zadania 9.exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\bin\Debug\Zadania 9.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\bin\Debug\Zadania 9.pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania_9.Form1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania_9.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania_9.Задание_1.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania_9.Задание_2.resources
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\9 задание\Zadania 9 form\Zadania 9\obj\Debug\Zadania 9.pdb
